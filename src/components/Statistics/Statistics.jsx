@@ -1,4 +1,4 @@
-import propTypes from 'prop-types';
+import PropTypes from 'prop-types';
 
 export const Statistics = ({  }) => {
   
@@ -27,7 +27,6 @@ export const Statistics = ({  }) => {
     </section>
   )
 };
-
 Statistics.propTypes = {
 
 }
